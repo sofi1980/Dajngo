@@ -1,0 +1,8 @@
+print("The itsy bitsy spider climbed up the waterspout.")
+print()
+print()
+print("Down came the rain  \n and washed the spid")
+print("hola \n")
+print("hola \ gsfs")
+print("\\")
+print("hola",5,4.6)
